@@ -1,6 +1,6 @@
 # Minimal Mistakes remote theme starter
 
-<img src="https://github.com/Healtherr/healtherr.github.io/pic.png"/>
+<img src="https://github.com/Healtherr/healtherr.github.io/blob/d127bb5d8cc85b4232614ba80427383ff0f28397/pic.png"/>
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
