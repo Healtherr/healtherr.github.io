@@ -85,8 +85,10 @@ footer:
     - label: "Merry Christmas!"
       icon: "fab fa-fw fa-instagram"
       url: "https://healtherr.github.io/Christmas-tree/"
-    # - label: "LoveTree"
-    #   url: "https://healtherr.github.io/LoveTree/"
+    - label: "eldercare-recommender"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://healtherr.github.io/eldercare-recommender/"
+      
 
 defaults:
   # _posts
